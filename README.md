@@ -14,6 +14,6 @@ This repo is a work in progress.  For now it's focused on quad-copters, basicall
 Please feel free to comment, make requests, or pitch in.  If there's another, similar initiative that we should be backing instead of continuing with this repo, let us know; we don't want to duplicate efforts and if you're well ahead of us we would be happy to support your repo instead.
 
 For the project/works which have been done and you are looking to share to the world based on this Repository, feel free to share to the world in ProofInPractice directory as a testimony and inspiration by creating a folder and a file containing the story of to inspire others.
-#FromLearningToDoing #LearningInAction #LearnAndAchieve #LearnToDoIt #MasterByDoing
+#FromLearningToDoing #LearningInAction #LearnAndAchieve #LearnToDoIt #MasterByDoing #LearningByDoing
 
 Let's get up in the air!
